@@ -12,6 +12,15 @@
 
 ---
 
+## 👩‍💻 About Me
+
+- 🌱 I’m currently working on **Machine Learning Projects & Web Apps**
+- 💬 Ask me about **Data Analysis, Competitive Programming, Web Development**
+- 📫 Reach me at: [vartika.191732@gmail.com](mailto:vartika.191732@gmail.com)
+- 🧠 Fun Fact: *“I debug in dreams too.”*
+
+---
+
 ## 🔥 GitHub Stats & Contributions
 
 <p align="center">
@@ -35,6 +44,14 @@
 
 ---
 
+## 🧠 GitHub Dev Metrics (Fun!)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/vartikasinghp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&config.timezone=Asia%2FKolkata" width="95%" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -43,11 +60,15 @@
 
 ---
 
-## 🧠 GitHub Dev Metrics (Fun!)
+## 🎖️ Holopin Badges *(Optional)*
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/vartikasinghp?template=classic&isocalendar=1&languages=1&activity=1&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata" width="95%" />
+  <a href="https://holopin.io/@YOUR_USERNAME">
+    <img src="https://holopin.io/api/user/board?user=YOUR_USERNAME" alt="Holopin Badges" />
+  </a>
 </p>
+
+> 🔁 Replace `YOUR_USERNAME` with your actual Holopin username if you have one.
 
 ---
 
@@ -102,7 +123,7 @@
 
 ---
 
-## 🧑‍💻 Coding
+## 🧑‍💻 Coding Profiles
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/buzzcodez/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2EC866?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
