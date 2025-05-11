@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Vartika Singh 👋</h1>
+
+<h1 align="center">Hi, I'm Vartika Singh </h1>
 
 <p align="center">
   <img width="280" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g" />
@@ -14,10 +15,10 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 I’m currently working on **Machine Learning Projects & Web Apps**
+- 🌱 I’m currently working on **Web Development Projects & ML Projects**
 - 💬 Ask me about **Data Analysis, Competitive Programming, Web Development**
 - 📫 Reach me at: [vartika.191732@gmail.com](mailto:vartika.191732@gmail.com)
-- 🧠 Fun Fact: *“I debug in dreams too.”*
+- 🧠 Fun Fact: *“The best error message is the one that never shows up!”*
 
 ---
 
@@ -44,31 +45,11 @@
 
 ---
 
-## 🧠 GitHub Dev Metrics (Fun!)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/vartikasinghp/metrics/main/metrics.svg" width="95%" />
-
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vartikasinghp&theme=gruvbox&row=1&column=7" />
 </p>
-
----
-
-## 🎖️ Holopin Badges *(Optional)*
-
-<p align="center">
-  <a href="https://holopin.io/@YOUR_USERNAME">
-    <img src="https://holopin.io/api/user/board?user=vartikasingh" alt="Holopin Badges" />
-  </a>
-</p>
-
-> 🔁 Replace `YOUR_USERNAME` with your actual Holopin username if you have one.
 
 ---
 
@@ -137,8 +118,6 @@
 <p align="center">
   <img src="footer.png" alt="footer image" width="100%" />
 </p>
-
-
 
 
 <!-- [![An image of @vartikasinghp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vartikasinghp)](https://holopin.io/@vartikasinghp)
