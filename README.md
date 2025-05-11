@@ -38,6 +38,13 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikasinghp&bg_color=0d1117&color=ffffff&line=5bcdec&point=64ffda&area=true&hide_border=true" width="100%" />
+</p>
+
+
 ## ✨ Holopin Badges
 
 <p align="center">
