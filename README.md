@@ -3,9 +3,6 @@
 <p align="center">
   <img width="280" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g" alt="Hello" />
 </p>
-
-<h3 align="center">Data Analyst | Web Developer | C++ Programmer | ML & Data Science Enthusiast</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vartikasinghp&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
@@ -14,12 +11,20 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently exploring **Web Development** & **Machine Learning**
-- 💬 Ask me about **Data Analysis, Competitive Programming, Web Development**
-- 📫 Reach me at: [vartiksingh2022@vitbhopal.ac.in](mailto:vartiksingh2022@vitbhopal.ac.in)
-- 🧠 *Fun Fact:* “The best error message is the one that never shows up!”
+js
+const person = {
+  name: "Vartika",
+  bio: `Pre-final year Computer Science student with a passion for app development.
+        I am particularly interested in using AI, competitive programming, 
+        and app development to solve real-world problems and stay up-to-date 
+        with emerging technologies.`,
+  hardWorker: true,
+  quickLearner: true,
+  problemSolver: true,
+  inGameName: ["Amvn", "Brood"],
+  hobbies: ["Star-gazing", "Observing People", "Cinephile", "Competitive Programming"]
+};
 
----
 
 ## 🚀 GitHub Stats & Contributions
 
