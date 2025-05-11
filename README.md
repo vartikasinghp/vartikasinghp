@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vartika Singh 👋</h1>
+<h1 align="center">Hi, I'm Vartika Singh </h1>
 
 <p align="center">
   <img width="280" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g" alt="Hello" />
