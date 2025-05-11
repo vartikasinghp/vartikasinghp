@@ -43,16 +43,6 @@
 
 ---
 
-## ✨ Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@vartikasinghp">
-    <img src="https://holopin.me/vartikasinghp" alt="Holopin Badges" width="300"/>
-  </a>
-</p>
-
----
-
 ## 🧠 GitHub Dev Metrics (Fun!)
 
 <p align="center">
@@ -112,7 +102,7 @@
 
 ---
 
-## 🧑‍💻 Competitive Coding
+## 🧑‍💻 Coding
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/buzzcodez/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2EC866?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
@@ -123,7 +113,9 @@
 
 ---
 
-> 💬 *Feel free to connect, collaborate, or just say hi!*
+<p align="center">
+  <img src="footer.png" alt="footer image" width="100%" />
+</p>
 
 
 
