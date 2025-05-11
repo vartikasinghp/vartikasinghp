@@ -47,8 +47,8 @@
 ## 🧠 GitHub Dev Metrics (Fun!)
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/vartikasinghp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&config.timezone=Asia%2FKolkata" width="95%" />
-</p>
+<img src="https://raw.githubusercontent.com/vartikasinghp/metrics/main/metrics.svg" width="95%" />
+
 
 ---
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@YOUR_USERNAME">
-    <img src="https://holopin.io/api/user/board?user=YOUR_USERNAME" alt="Holopin Badges" />
+    <img src="https://holopin.io/api/user/board?user=vartikasingh" alt="Holopin Badges" />
   </a>
 </p>
 
