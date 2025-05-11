@@ -9,21 +9,13 @@
 
 ---
 
-## 👩‍💻 About Me
+<h3 align="center">Data Analyst | Web Developer | C++ Programmer | ML & Data Science Enthusiast</h3>
 
-js
-const person = {
-  name: "Vartika",
-  bio: `Pre-final year Computer Science student with a passion for app development.
-        I am particularly interested in using AI, competitive programming, 
-        and app development to solve real-world problems and stay up-to-date 
-        with emerging technologies.`,
-  hardWorker: true,
-  quickLearner: true,
-  problemSolver: true,
-  inGameName: ["Amvn", "Brood"],
-  hobbies: ["Star-gazing", "Observing People", "Cinephile", "Competitive Programming"]
-};
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vartikasinghp&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 
 ## 🚀 GitHub Stats & Contributions
