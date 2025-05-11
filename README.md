@@ -12,6 +12,15 @@
 
 <h3 align="center">✨ Data Analyst | Web Developer | C++ Programmer | ML & Data Science Enthusiast ✨</h3>
 
+## 👩‍💻 About Me
+
+- 🌱 Currently exploring **Web Development** & **Machine Learning**
+- 💬 Ask me about **Data Analysis, Competitive Programming, Web Development**
+- 📫 Reach me at: [vartiksingh2022@vitbhopal.ac.in](mailto:vartiksingh2022@vitbhopal.ac.in)
+- 🧠 *Fun Fact:* “The best error message is the one that never shows up!” - Thomas Fuchs
+
+---
+
 
 
 ## 🚀 GitHub Stats & Contributions
