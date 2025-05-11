@@ -46,9 +46,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vartikasinghp&theme=gruvbox&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vartikasinghp/vartikasinghp/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</p>
+
 
 ---
 
