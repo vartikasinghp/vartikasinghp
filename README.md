@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently working on **Web Development Projects & ML Projects**
 - 💬 Ask me about **Data Analysis, Competitive Programming, Web Development**
-- 📫 Reach me at: [vartika.191732@gmail.com](mailto:vartika.191732@gmail.com)
+- 📫 Reach me at: [vartiksingh2022@vitbhopal.ac.in](mailto:vartiksingh2022@vitbhopal.ac.in)
 - 🧠 Fun Fact: *“The best error message is the one that never shows up!”*
 
 ---
