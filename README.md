@@ -31,3 +31,5 @@
    <a href="https://codeforces.com/profile/codez1917" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%230B72B9.svg?&style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
    <a href="https://www.codechef.com/users/binnicodez" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef" /></a>
 </div>
+[![An image of @vartikasinghp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vartikasinghp)](https://holopin.io/@vartikasinghp)
+
